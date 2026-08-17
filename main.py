@@ -1,7 +1,6 @@
 #i want to add a lot more to this game like buying moreland and a crop shop that you have to walk to on the left to open ui and sell crops at a vender on the right and im sure more ideas will come to me as i build and whatnot
 
 import pygame
-
 pygame.init()
 
 SCREEN_WIDTH = 1280
